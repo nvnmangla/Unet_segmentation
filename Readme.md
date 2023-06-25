@@ -18,4 +18,6 @@ Here we are using UNET for image segmentation
 - Availability of pre-trained models: Pre-trained UNET models are available, trained on large-scale datasets such as ImageNet or medical imaging datasets. These pre-trained models can be fine-tuned on specific tasks with smaller datasets, providing a starting point and accelerating development.
 
 
-![Alt text](saved_images/_0.jpg "Title")
+### Results 
+
+![Alt text](saved_images/_0.jpg "Segmented Images")
