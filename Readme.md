@@ -1,5 +1,15 @@
 Here we are using UNET for image segmentation
 
+
+## Data Generation
+
+We are using 3 channel image resized to 160*240. 
+
+### Architecture 
+
+
+![Alt text](unet.png "UNET")
+
 ### Advantages UNET provides 
 - Excellent segmentation accuracy: UNET has demonstrated impressive performance in semantic segmentation tasks, achieving state-of-the-art results in several benchmarks. It can effectively capture fine-grained details and accurately delineate object boundaries.
 
