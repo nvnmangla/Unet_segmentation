@@ -4,6 +4,8 @@ Here we are using UNET for image segmentation
 ## Data Generation
 
 We are using 3 channel image resized to 160*240. 
+Rotating, Horizonatal flip and Virtical flip.
+
 
 ### Architecture 
 
