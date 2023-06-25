@@ -30,4 +30,6 @@ We are using 3 channel image resized to 160*240.
 
 ### Results 
 
+Accuracy = 99.70 on 48 Validation Images 
+
 ![Alt text](saved_images/_0.jpg "Segmented Images")
